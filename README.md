@@ -4,4 +4,4 @@ Ovo je bio moj projekt za završni rad za preddiplomski studij. Konstruirao sam 
 
 Kad robot nađe liniju, slijedi je zauvijek. Ima kamere ispred sebe za prepreke, i ispred sebe prema podu radi pregleda linije.
 
-Dodan je i exe file za instalaciju radi točne verzije.
+Za pokretanje je potreban V-REP 6.2.
